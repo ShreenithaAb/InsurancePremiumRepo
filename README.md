@@ -1,2 +1,2 @@
-# InsurancePremiumRepo
-InsurancePremium
+# InsurancePremium
+ Calulate Insurance Premium console application
